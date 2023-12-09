@@ -1,2 +1,2 @@
-# CS-425-Project-Phase-2
+# CS-425-Project
 ER Diagram
